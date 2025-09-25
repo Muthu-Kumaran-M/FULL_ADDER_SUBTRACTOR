@@ -48,7 +48,7 @@ Write the detailed procedure here
 
 Developed by: Muthu Kumaran M
 
-RegisterNumber: 212223240101
+RegisterNumber: 212224245002
 ```
 module EXP4(a,b,c,sum,carry,Bo,DIFF);
 input a,b,c;
